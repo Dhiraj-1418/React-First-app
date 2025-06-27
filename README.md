@@ -55,6 +55,8 @@ Edit
 
 ## 📸 Screenshot
 
+video link :- https://drive.google.com/file/d/1vrSPFNv9k-fgn-mSl8QIHZwoXDFFWclZ/view?usp=sharing
+
 ![Profile Card Screenshot](../assets/profile-card-screenshot.png) <!-- Replace with your actual image path or link -->
 
 ## 🎯 Future Plans

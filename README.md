@@ -57,7 +57,7 @@ Edit
 
 video link :- https://drive.google.com/file/d/1vrSPFNv9k-fgn-mSl8QIHZwoXDFFWclZ/view?usp=sharing
 
-![Profile Card Screenshot](<img src="pic.jpg">) <!-- Replace with your actual image path or link -->
+(<img src="pic.jpg">) <!-- Replace with your actual image path or link -->
 
 ## 🎯 Future Plans
 
